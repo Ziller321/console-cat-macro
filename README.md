@@ -11,13 +11,15 @@ Reasons...
 
 ## Usage
 
+This...
+
 ```javascript
 import console from "console-cat.macro";
 
 console.log("this is cat");
 ```
 
-Will output this
+...will output this
 
 ```javascript
 console.log("this is 🐱");

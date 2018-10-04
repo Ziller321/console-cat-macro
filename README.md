@@ -9,7 +9,7 @@ Will transform 80+ different cat strings to cat emoji in console.log
 
 Reasons...
 
-##Usage
+## Usage
 
 ```javascript
 import console from "console-cat.macro";

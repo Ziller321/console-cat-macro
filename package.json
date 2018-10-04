@@ -4,7 +4,7 @@
   "description": "babel macro for cats",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Ziller321/console-cat-macro#readme",
   "dependencies": {
     "babel-plugin-macros": "^2.4.2"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
   }
 }

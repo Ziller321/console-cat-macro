@@ -1,6 +1,6 @@
 {
   "name": "console-cat.macro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "babel macro for cats",
   "main": "index.js",
   "scripts": {

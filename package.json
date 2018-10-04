@@ -1,6 +1,6 @@
 {
   "name": "console-cat.macro",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "babel macro for cats",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Ziller321/console-cat-macro.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Ziller321/console-cat-macro/issues"
   },
